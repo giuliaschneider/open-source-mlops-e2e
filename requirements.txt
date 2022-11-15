@@ -1,6 +1,7 @@
 alibi-detect==0.10.4
 csv2md==1.1.2
 dvc==2.34.1
+dvc-s3==2.21.0
 eli5==0.13.0
 fastapi==0.86.0
 jupyter==1.0.0
